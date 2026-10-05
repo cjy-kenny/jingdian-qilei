@@ -1,0 +1,6 @@
+# 构建产物
+android/build/
+android/assets/
+dist/
+*.idsig
+__pycache__/
